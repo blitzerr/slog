@@ -1,0 +1,4 @@
+# ninja log v6
+3	89	1747630999439917188	CMakeFiles/slog_main_app.dir/examples/main.c.o	a87d9f243d0cefc5
+2	154	1747630999439221217	src/CMakeFiles/slog_lib.dir/slog.c.o	2d64873432cd4e85
+155	288	1747630999591607827	src/libslog_lib.a	4dd1c1bb67c7ae29

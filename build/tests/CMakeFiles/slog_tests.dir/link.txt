@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/slog_tests.dir/test_slog.c.o -o slog_tests  ../src/libslog_lib.a

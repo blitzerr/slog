@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/blitz/my-oss/slog/build",
+  "command": "/usr/bin/clang -I/Users/blitz/my-oss/slog/src/../inc -g -std=c11 -o CMakeFiles/slog_main_app.dir/examples/main.c.o -c /Users/blitz/my-oss/slog/examples/main.c",
+  "file": "/Users/blitz/my-oss/slog/examples/main.c",
+  "output": "CMakeFiles/slog_main_app.dir/examples/main.c.o"
+},
+{
+  "directory": "/Users/blitz/my-oss/slog/build",
+  "command": "/usr/bin/clang -I/Users/blitz/my-oss/slog/src/../inc -g -std=c11 -o src/CMakeFiles/slog_lib.dir/slog.c.o -c /Users/blitz/my-oss/slog/src/slog.c",
+  "file": "/Users/blitz/my-oss/slog/src/slog.c",
+  "output": "src/CMakeFiles/slog_lib.dir/slog.c.o"
+},
+{
+  "directory": "/Users/blitz/my-oss/slog/build",
+  "command": "/usr/bin/clang -I/Users/blitz/my-oss/slog/src/../inc -g -std=c11 -o tests/CMakeFiles/slog_tests.dir/test_slog.c.o -c /Users/blitz/my-oss/slog/tests/test_slog.c",
+  "file": "/Users/blitz/my-oss/slog/tests/test_slog.c",
+  "output": "tests/CMakeFiles/slog_tests.dir/test_slog.c.o"
+}
+]

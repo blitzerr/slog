@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/blitz/my-oss/slog/build/cmake_install.cmake",
+		"/Users/blitz/my-oss/slog/build/src/cmake_install.cmake",
+		"/Users/blitz/my-oss/slog/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

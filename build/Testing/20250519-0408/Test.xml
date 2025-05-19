@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20250519-0408-Experimental"
+	Name="(empty)"
+	Generator="ctest-4.0.2"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="macOS"
+	Hostname="Blitzs-MacBook-Pro.local"
+	OSRelease="15.3.2"
+	OSVersion="24D81"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="158"
+	ModelName="Intel(R) Core(TM) i9-8950HK CPU @ 2.90GHz"
+	ProcessorCacheSize="32768"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="2048"
+	TotalPhysicalMemory="32768"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="2900"
+	>
+	<Testing>
+		<StartDateTime>May 18 22:03 PDT</StartDateTime>
+		<StartTestTime>1747630999</StartTestTime>
+		<TestList/>
+		<EndDateTime>May 18 22:03 PDT</EndDateTime>
+		<EndTestTime>1747630999</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

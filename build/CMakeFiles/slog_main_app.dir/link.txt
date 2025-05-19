@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/slog_main_app.dir/examples/main.c.o -o slog_main_app  src/libslog_lib.a
